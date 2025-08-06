@@ -1,0 +1,3 @@
+"Company name";"Company tax number";"Status";"Payment Date";"Amount";
+"Invalid Co";"";"PENDING";"wrong-date";"ABC";
+"Valid Co";"123-456";"PENDING";"2025-01-01";"2000,00";
